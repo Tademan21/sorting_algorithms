@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 
 /**
 * merge - Merges the splits from merge_sorty
