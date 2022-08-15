@@ -1,4 +1,4 @@
-nclude "deck.h"
+#include "deck.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
