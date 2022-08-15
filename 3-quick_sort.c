@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 
 /**
 * partition - Lomutu partition scheme for quicksort algorithm
